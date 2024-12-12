@@ -1,0 +1,650 @@
+[
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2018,
+    "term": "May-June",
+    "language": "English",
+    "path": "2018/2018-May-June-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2018,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2018/2018-May-June-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2018,
+    "term": "May-June",
+    "language": "English",
+    "path": "2018/2018-May-June-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2018,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2018/2018-May-June-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2018,
+    "term": "November",
+    "language": "English",
+    "path": "2018/2018-November-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2018,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2018/2018-November-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2018,
+    "term": "November",
+    "language": "English",
+    "path": "2018/2018-November-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2018,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2018/2018-November-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2019,
+    "term": "May-June",
+    "language": "English",
+    "path": "2019/2019-May-June-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2019,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2019/2019-May-June-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2019,
+    "term": "May-June",
+    "language": "English",
+    "path": "2019/2019-May-June-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2019,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2019/2019-May-June-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2019,
+    "term": "November",
+    "language": "English",
+    "path": "2019/2019-November-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2019,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2019/2019-November-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2019,
+    "term": "November",
+    "language": "English",
+    "path": "2019/2019-November-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2019,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2019/2019-November-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2020,
+    "term": "May-June",
+    "language": "English",
+    "path": "2020/2020-May-June-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2020,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2020/2020-May-June-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2020,
+    "term": "May-June",
+    "language": "English",
+    "path": "2020/2020-May-June-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2020,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2020/2020-May-June-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2020,
+    "term": "November",
+    "language": "English",
+    "path": "2020/2020-November-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2020,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2020/2020-November-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2020,
+    "term": "November",
+    "language": "English",
+    "path": "2020/2020-November-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2020,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2020/2020-November-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2021,
+    "term": "May-June",
+    "language": "English",
+    "path": "2021/2021-May-June-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2021,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2021/2021-May-June-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2021,
+    "term": "May-June",
+    "language": "English",
+    "path": "2021/2021-May-June-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2021,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2021/2021-May-June-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2021,
+    "term": "November",
+    "language": "English",
+    "path": "2021/2021-November-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2021,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2021/2021-November-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2021,
+    "term": "November",
+    "language": "English",
+    "path": "2021/2021-November-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2021,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2021/2021-November-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2022,
+    "term": "May-June",
+    "language": "English",
+    "path": "2022/2022-May-June-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2022,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2022/2022-May-June-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2022,
+    "term": "May-June",
+    "language": "English",
+    "path": "2022/2022-May-June-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2022,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2022/2022-May-June-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2022,
+    "term": "November",
+    "language": "English",
+    "path": "2022/2022-November-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2022,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2022/2022-November-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2022,
+    "term": "November",
+    "language": "English",
+    "path": "2022/2022-November-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2022,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2022/2022-November-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2023,
+    "term": "May-June",
+    "language": "English",
+    "path": "2023/2023-May-June-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2023,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2023/2023-May-June-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2023,
+    "term": "May-June",
+    "language": "English",
+    "path": "2023/2023-May-June-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2023,
+    "term": "May-June",
+    "language": "Afrikaans",
+    "path": "2023/2023-May-June-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2023,
+    "term": "November",
+    "language": "English",
+    "path": "2023/2023-November-Mathematics-Paper-1-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-1",
+    "year": 2023,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2023/2023-November-Mathematics-Paper-1-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2023,
+    "term": "November",
+    "language": "English",
+    "path": "2023/2023-November-Mathematics-Paper-2-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Question paper",
+    "paper": "Paper-2",
+    "year": 2023,
+    "term": "November",
+    "language": "Afrikaans",
+    "path": "2023/2023-November-Mathematics-Paper-2-Afrikaans.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2018,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2018/2018-May-June-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2018,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2018/2018-May-June-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2018,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2018/2018-November-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2018,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2018/2018-November-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2019,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2019/2019-May-June-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2019,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2019/2019-May-June-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2019,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2019/2019-November-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2019,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2019/2019-November-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2020,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2020/2020-May-June-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2020,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2020/2020-May-June-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2020,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2020/2020-November-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2020,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2020/2020-November-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2021,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2021/2021-May-June-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2021,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2021/2021-May-June-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2021,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2021/2021-November-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2021,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2021/2021-November-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2022,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2022/2022-May-June-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2022,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2022/2022-May-June-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2022,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2022/2022-November-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2022,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2022/2022-November-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2023,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2023/2023-May-June-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2023,
+    "term": "May-June",
+    "language": "Afrikaans-and-English",
+    "path": "2023/2023-May-June-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-1",
+    "year": 2023,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2023/2023-November-Mathematics-Memo-1-Afrikaans-and-English.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "type": "Memorandum",
+    "paper": "Memo-2",
+    "year": 2023,
+    "term": "November",
+    "language": "Afrikaans-and-English",
+    "path": "2023/2023-November-Mathematics-Memo-2-Afrikaans-and-English.pdf"
+  }
+]
