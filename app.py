@@ -53,7 +53,7 @@ LIVE_SERVER_URL = os.getenv('LIVE_SERVER_URL')
 # Embed
 vectorstore = Chroma.from_documents(documents=splits, embedding=OpenAIEmbeddings())
 
-retriever = vectorstore.as_retriever(search_kwargs={"k": 1})
+retriever = vectorstore.as_retriever(search_kwargs={"k": 10})
 # Create a LangChain LLMChain
 
 template = """
